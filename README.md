@@ -8,7 +8,8 @@ Formado em **Matemática(Licenciatura)** e **Ciências Contábeis**
 
 :point_right: Estudando GenIA e Dados (Bootcamp DIO e Bradesco)
 
-:point_right:<img src="https://github.com/user-attachments/assets/5153b5f0-2dcb-4fc6-93d3-6857cdbb3c65" width="18" height="18" />   Lingua Espanhola
+:point_right:<img width="18" height="15" alt="image" src="https://github.com/user-attachments/assets/dedec17a-0306-4210-ab2a-b2b32bf666e7" />
+   Lingua Espanhola
 
 ## Linguagens e Ferramentas 
 
